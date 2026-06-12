@@ -7,7 +7,7 @@ Medallion Architecture (Bronze → Silver → Gold) with automated
 orchestration via Databricks Workflows.
 
 ## Architecture
-![Architecture](images/Databricks Medallion Architecture.png)
+![Architecture](images/Architecture.png)
 
 ## Tech Stack
 - **Platform:** Databricks Community Edition
