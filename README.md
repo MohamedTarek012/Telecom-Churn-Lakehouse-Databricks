@@ -47,3 +47,4 @@ orchestration via Databricks Workflows.
 ![Dashboard](images/dashboard.png)
 
 ## Pipeline
+Automated daily via Databricks Workflows at 2:00 AM
